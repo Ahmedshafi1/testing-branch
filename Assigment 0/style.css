@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    margin-left: 500px;
+    margin-top: 200px;
+
+}
+table{
+    background-color:blueviolet;
+    color: rgb(228, 230, 217);
+    font-style: italic;
+    font-size: large;
+    padding: 30px;
+    border: 2px;
+    border-color: blue;
+    border-radius: 20px;
+    width: 400px;
+    height: 300px;
+   
+}
+
+tr th{
+    width: 30px;
+}
